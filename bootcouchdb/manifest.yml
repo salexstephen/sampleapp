@@ -1,0 +1,7 @@
+---
+applications:
+- name: bootmongo528
+  memory: 800M
+  instances: 1
+  services:
+   - bla62-MongoDB-2016-07-01 04:47:47.311
