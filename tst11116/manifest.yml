@@ -1,0 +1,7 @@
+---
+applications:
+- name: tst11116
+  memory: 800M
+  instances: 1
+  services:
+   - GSAppms01-mysql-5559412102
